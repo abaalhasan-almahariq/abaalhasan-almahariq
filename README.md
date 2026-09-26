@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Aba-al-Hasan 👋
 
-<!--
-**abaalhasan-almahariq/abaalhasan-almahariq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering graduate from Zarqa University with interests in
+backend development, databases, web development, and software quality assurance.
 
-Here are some ideas to get you started:
+## 🛠 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C#, Java, JavaScript
+- ASP.NET, Angular
+- SQL, Oracle Database
+- Git & GitHub
+- Postman
+- UML, Requirements Analysis, and Software Testing
+- Figma
+
+## 📚 Currently
+
+- Strengthening my Java backend development skills
+- Building projects for my software engineering portfolio
+- Looking for Software Engineering internship and graduate opportunities
+
+## 🚀 Projects
+
+Projects will be added here as I continue building my portfolio.
+
+## 🔗 Connect With Me
+
+- LinkedIn: [Aba-al-Hasan Al-Mahariq](https://www.linkedin.com/in/aba-al-hasan-al-mahariq/)
