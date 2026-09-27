@@ -20,6 +20,9 @@ Graduation project developed in a 3-member multidisciplinary team. I contributed
 ### [Integrated Library Management System](https://github.com/abaalhasan-almahariq/integrated-library-management-system)
 Oracle Database project covering relational database design, SQL, PL/SQL, views, procedures, functions, borrowing transactions, and fine management.
 
+### [University Management System — Software Analysis & Modeling](https://github.com/abaalhasan-almahariq/university-management-system-analysis)
+Team analysis and modeling project covering requirements engineering, use-case descriptions, UML class modeling, three activity diagrams, and UI prototyping. My work focused on the use cases, functional/non-functional requirements, class design/documentation, activity diagrams, and Figma prototype.
+
 ## 📚 Currently
 
 - Strengthening my backend development skills
