@@ -14,15 +14,15 @@ I enjoy understanding how software systems are designed, structured, tested, and
 
 ## 🚀 Featured Projects
 
+### [QABAS — AI-Powered Student Feedback Analysis & Management System](https://github.com/abaalhasan-almahariq/qabas-ai-feedback-management-system)
+Graduation project developed in a 3-member multidisciplinary team. I contributed heavily to technical documentation, system design and architecture, software testing, backend routing/integration fixes, and database troubleshooting. The public repository includes a UML-aligned portfolio refactor and selected implementation modules.
+
 ### [Integrated Library Management System](https://github.com/abaalhasan-almahariq/integrated-library-management-system)
 Oracle Database project covering relational database design, SQL, PL/SQL, views, procedures, functions, borrowing transactions, and fine management.
 
-### AI-Powered Student Feedback Analysis and Management System
-Graduation project developed in a 3-member multidisciplinary team. I contributed heavily to technical documentation, system design and architecture, software testing, backend routing/integration fixes, and database troubleshooting.
-
 ## 📚 Currently
 
-- Strengthening my **Java backend development** skills
+- Strengthening my backend development skills
 - Building practical projects for my software engineering portfolio
 - Looking for **Software Engineering internship, graduate, and entry-level opportunities**
 
